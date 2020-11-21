@@ -16,7 +16,7 @@ It is also required that you have Google Chrome set as your default browser for 
 To start the app follow the given below instructions.
 
 ``` bash
-cd src\
+cd Student Kit\src\
 python app.py
 ```
 
